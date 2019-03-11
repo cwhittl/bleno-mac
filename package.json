@@ -17,7 +17,7 @@
   ],
   "dependencies": {
     "napi-thread-safe-callback": "0.0.6",
-    "bleno": "cwhittl/bleno#c8c7f44",
+    "bleno": "cwhittl/bleno#0b0050b",
     "node-addon-api": "^1.1.0",
     "node-pre-gyp": "^0.10.0"
   },
